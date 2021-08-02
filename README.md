@@ -1,4 +1,5 @@
 ![Axiom Picture](https://image.noelshack.com/fichiers/2020/29/5/1595015916-axiom.png) 
+#This project was created in 2019, but never updated, this code is outdated, please use my new template here: unvailable 
 
 Axiom is a HUGE bot coded by AzelSync#2860 which aims to offer a program 100% modular and designed for all types of servers, it will find a place in each of your projects and support each of your actions, Axiom is THE benchmark bot. it includes levels, economy, moderation, fun, configuration and many other fun additions for a fun server!
 
